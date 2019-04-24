@@ -1,0 +1,10 @@
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\bin\Debug\WinForms_24.04.exe.config
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\bin\Debug\WinForms_24.04.exe
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\bin\Debug\WinForms_24.04.pdb
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24.04.csprojResolveAssemblyReference.cache
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24._04.Form1.resources
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24._04.Form2.resources
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24._04.Properties.Resources.resources
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24.04.csproj.GenerateResource.Cache
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24.04.exe
+D:\Вероника Романенко\WinForms_24.04\WinForms_24.04\WinForms_24.04\obj\Debug\WinForms_24.04.pdb
